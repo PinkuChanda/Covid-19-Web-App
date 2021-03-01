@@ -1,0 +1,20 @@
+.cat1 {
+  background-image: linear-gradient(to right, #ff9e34, #ffd019);
+  padding: 10px 30px;
+  border-radius: 20px;
+  margin-bottom: 25px;
+  min-height: 230px;
+}
+.cat2 {
+  background-image: linear-gradient(to bottom, #ff5599, #ff2279);
+  padding: 10px 30px;
+  border-radius: 20px;
+  margin-bottom: 25px;
+  min-height: 230px;
+}
+.cat3 {
+  background-image: linear-gradient(90deg, #4288ff, #3f07f8);
+  padding: 10px 30px;
+  border-radius: 20px;
+  min-height: 230px;
+}

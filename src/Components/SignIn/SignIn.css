@@ -1,0 +1,62 @@
+@import url("https://fonts.googleapis.com/css?family=PT+Sans");
+
+h2 {
+  padding-top: 1.5rem;
+}
+a:hover {
+  color: initial;
+}
+.card {
+  border: 0.4rem solid #f8f9fa;
+  top: 10%;
+}
+.form-control {
+  background-color: #f8f9fa;
+  padding: 20px;
+  padding: 25px 15px;
+  margin-bottom: 1.3rem;
+  border: 2px solid transparent;
+}
+
+.form-control:focus {
+  color: #000000;
+  background-color: #ffffff;
+  border: 2px solid #4e41c0;
+  outline: 0;
+  box-shadow: none;
+}
+
+i {
+  color: #4e41c0;
+  transition: all 0.5s;
+  -webkit-transition: all 0.5s;
+  -moz-transition: all 0.5s;
+  -ms-transition: all 0.5s;
+  -o-transition: all 0.5s;
+}
+
+.btnclr {
+  color: #4e41c0;
+  font-weight: 600;
+  font-size: 20px;
+}
+.btnclr:hover {
+  color: #4e41c0;
+}
+
+.btnclr:hover i {
+  color: #4e41c0;
+  transform: translateX(7px);
+}
+
+.signBtn {
+  background: linear-gradient(-45deg, #8668ad 0%, #55bbeb 100%);
+  color: #ffffff;
+  border: 0px;
+  font-weight: 600;
+  font-size: 20px;
+}
+
+.signBtn:hover {
+  color: #ffffff;
+}

@@ -1,0 +1,16 @@
+.del {
+  background-color: #f34541;
+  color: #fff;
+}
+
+.del :hover {
+  background-color: #ff0d09 !important;
+}
+.add {
+  background-color: #38b87c;
+  color: #fff;
+}
+
+.add :hover {
+  background-color: #38b87c !important;
+}
